@@ -1,6 +1,8 @@
 # FORT_ClawX CHANGLOGS
 
-## FORT_ClawX Alpha 1.0
+## FORT_ClawX Alpha 2.0
 
-- Rudimentäre Systamagenten für minimale Selbstheilungsfähigkeiten
-- Systemagenten zur Wartung
+- Erste Stabile Version
+- Alle System-Agenten funktionieren
+- Volle Selbsheilungsfähigkeiten
+- Volles SECURITY- und EXECUTE-Gate
