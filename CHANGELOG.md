@@ -6,3 +6,4 @@
 - Alle System-Agenten funktionieren
 - Volle Selbsheilungsfähigkeiten
 - Volles SECURITY- und EXECUTE-Gate
+- Volle Systemintigrität
