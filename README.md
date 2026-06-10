@@ -22,9 +22,9 @@ Derzeit befindet sich mein Projekt in der Bugfixing- und Testing-Phase. Es wird 
 * **Ende Juni 2026:** Version 2.5 – Function Agents (Einführung funktionaler Agenten).
 * **Mitte Juli 2026:** Version 3.0 – BETA (Übergang in die Beta-Phase, in der die Agenten dann auch funktionieren).
 
-## EN (AI Translation)
-# FORT_ClawX – An OpenClaw Framework
+---
 
+## EN (AI Translation)
 ## About Me
 
 My name is Ricco Kuntz, and I recently discovered OpenClaw (on April 13, 2026). I developed my agents using Google Gemini, leveraging the AI strictly as my compiler. This means I did not engage in pure "vibecoding"; instead, I enforced my own logic onto Gemini. This approach has saved me hours of coding time while completely avoiding the pitfalls of unguided AI generation.
