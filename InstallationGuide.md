@@ -1,7 +1,7 @@
 # Installationsguide
 
 ## DE
-###Installation
+### Installation
 1. Installiere openclaw (https://openclaw.ai/)
 2. Downloade FORT_ClawX in der Version deiner Wahl (tar.gz).
 3. Entpacke FORT_ClawX.tar.gz-Archiv
