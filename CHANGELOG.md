@@ -7,3 +7,10 @@
 - Volle Selbsheilungsfähigkeiten
 - Volles SECURITY- und EXECUTE-Gate
 - Volle Systemintigrität
+
+## FORT_ClawX Alpha 1.0
+
+- Frühe Alpha
+- Keine funktionierenden Agenten
+- NICHT GETESTET
+- NICHT ZUR INSTALLATION EMPFOHLEN
