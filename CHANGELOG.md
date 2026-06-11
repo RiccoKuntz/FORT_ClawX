@@ -1,6 +1,6 @@
 # FORT_ClawX CHANGLOGS
 
-## FORT_ClawX Alpha 2.0
+## FORT_ClawX Alpha 2.0 - Release 10.06.2026
 
 - Erste Stabile Version
 - Alle System-Agenten funktionieren
