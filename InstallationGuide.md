@@ -4,8 +4,8 @@
 ### Installation
 1. Installiere openclaw (https://openclaw.ai/)
 2. Downloade FORT_ClawX in der Version deiner Wahl (tar.gz).
-3. Entpacke FORT_ClawX.tar.gz-Archiv
-4. Ersetze deinen ~/.openclaw/workspace Ordner mit dem aus dem Archiv
+3. Entpacke das FORT_ClawX.tar.gz-Archiv
+4. Ersetze deinen ~/.openclaw/workspace Ordner mit dem aus dem Archiv.
 
 ### Installationshinweise
  - FORT_ClawX bis version 2.0 hat noch keinen Autoinstaller. Du musst also Garvis bitten einen scan durchzuführen und die Pfade auf dein System anzupassen
