@@ -1,0 +1,3 @@
+# PATH_RUNNER - Beschreibung
+
+PATH_RUNNER ist ein SYSTEM-Agent, der für die aktive Pflege und Validierung der PATHS.md zuständig ist. Er scannt alle in START.md referenzierten Pfade, entfernt tote Einträge und trägt auf Nutzerwunsch neue Pfade ein. Er stellt sicher, dass PATHS.md immer nur existierende, genutzte Pfade enthält.
