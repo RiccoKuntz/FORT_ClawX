@@ -17,10 +17,7 @@ FORT_ClawX befindet sich derzeit in der Alpha-Phase. Ich habe mich bewusst zuers
 
 ## Roadmap & Ausblick
 
-Derzeit befindet sich mein Projekt in der Bugfixing- und Testing-Phase. Es wird bald in eine Beta-Version übergehen und funktionale Agenten erhalten:
-
-* **Ende Juni 2026:** Version 2.5 – Function Agents (Einführung funktionaler Agenten).
-* **Mitte Juli 2026:** Version 3.0 – BETA (Übergang in die Beta-Phase, in der die Agenten dann auch funktionieren).
+Derzeit befindet sich mein Projekt in der Bugfixing- und Testing-Phase. Es wird bald in eine Beta-Version übergehen und funktionale Agenten erhalten.
 
 ---
 
@@ -41,7 +38,4 @@ FORT_ClawX is currently in its Alpha phase. During development, I deliberately f
 
 ## Roadmap & Outlook
 
-The project is currently in the bug-fixing and testing phase. It will soon transition into a Beta version and receive its first functional agents:
-
-* **End of June 2026:** Version 2.5 – Function Agents (Introduction of dedicated task-specific agents).
-* **Mid-July 2026:** Version 3.0 – BETA (Transition to the official Beta phase, where the functional agents go live).
+The project is currently in the bug-fixing and testing phase. It will soon transition into a Beta version and receive its first functional agents.
