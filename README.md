@@ -14,5 +14,5 @@ Fähigkeiten von FORT_ClawX 3.0:
 
 ## Roadmap & Ausblick
 
-Derzeit befindet sich mein Projekt in der Bugfixing- und Testing-Phase. Es wird bald in eine Beta-Version übergehen und funktionale Agenten und Skills erhalten.
+Derzeit arbeite ich daran, FORT_ClawX produktiv werden zu lassen. Dazu teste ich mit Dummydaten und Konten. 
 
